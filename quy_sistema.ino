@@ -2,7 +2,7 @@
 #include <LiquidCrystal.h>
 #include <Servo.h>
 #include <DFRobot_DHT11.h>
-DFRobot_DHT11 DHT;//boshqa nom 
+DFRobot_DHT11 DHT; 
 #define DHT11_PIN 11
 
 
